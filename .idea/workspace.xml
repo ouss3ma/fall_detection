@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d8b07eb-6c3c-4500-9375-7a16d16870e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="JupyterTrust" id="15bb27f0-7a06-4104-91a5-396454b6c7d9" />
+  <component name="ProjectId" id="1S1tHBZqEdnf9TvkFFwHM7vD5rY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.TST+Fallfree+NTU_gendata">
+    <configuration name="TST+Fallfree+NTU_gendata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/oussema/01D34ACBD9A19C20/maitrise/dataset/Fall/TST Fall detection dataset v2/mmskeleton_data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/oussema/01D34ACBD9A19C20/maitrise/dataset/Fall/TST Fall detection dataset v2/mmskeleton_data/TST+Fallfree+NTU_gendata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TST_gendata (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/media/oussema/01D34ACBD9A19C20/maitrise/dataset/Fall/TST Fall detection dataset v2/mmskeleton_data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/media/oussema/01D34ACBD9A19C20/maitrise/dataset/Fall/TST Fall detection dataset v2/mmskeleton_data/TST_gendata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="action_detection" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pku" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pku/action_detection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../1D-CNN" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../1D-CNN/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pku_detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pku" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pku/pku_detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/open-mmlab/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/configs/recognition/st_gcn/xsub/test.yaml" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="translearning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mmskeleton" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mmskeleton/processor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mmskeleton/processor/translearning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.action_detection" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.pku_detect" />
+      <item itemvalue="Python.TST_gendata (1)" />
+      <item itemvalue="Python.translearning" />
+      <item itemvalue="Python.TST+Fallfree+NTU_gendata" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TST+Fallfree+NTU_gendata" />
+        <item itemvalue="Python.TST_gendata (1)" />
+        <item itemvalue="Python.translearning" />
+        <item itemvalue="Python.pku_detect" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d8b07eb-6c3c-4500-9375-7a16d16870e0" name="Default Changelist" comment="" />
+      <created>1570742891205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570742891205</updated>
+      <workItem from="1570742892478" duration="9579000" />
+      <workItem from="1570900515856" duration="27474000" />
+      <workItem from="1571253445744" duration="9460000" />
+      <workItem from="1571455314095" duration="64104000" />
+      <workItem from="1573073894508" duration="8680000" />
+      <workItem from="1573503423986" duration="38383000" />
+      <workItem from="1574446373721" duration="16266000" />
+      <workItem from="1574883229115" duration="3754000" />
+      <workItem from="1575561191652" duration="11172000" />
+      <workItem from="1579202227023" duration="20805000" />
+      <workItem from="1581441380219" duration="1115000" />
+      <workItem from="1581442545028" duration="13100000" />
+      <workItem from="1581955512032" duration="3910000" />
+      <workItem from="1583956905134" duration="15667000" />
+      <workItem from="1584458919653" duration="8295000" />
+      <workItem from="1584639450131" duration="14787000" />
+      <workItem from="1584659549204" duration="342000" />
+      <workItem from="1584660649234" duration="4816000" />
+      <workItem from="1585929309083" duration="13075000" />
+      <workItem from="1586200249117" duration="733000" />
+      <workItem from="1586203974879" duration="4092000" />
+      <workItem from="1586213782023" duration="438000" />
+      <workItem from="1586274612569" duration="1907000" />
+      <workItem from="1586445605276" duration="2641000" />
+      <workItem from="1588962191051" duration="11096000" />
+      <workItem from="1589918402184" duration="63000" />
+      <workItem from="1590083451870" duration="8872000" />
+      <workItem from="1590425650653" duration="6827000" />
+      <workItem from="1590853660048" duration="9813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590175234617">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1590175234617" />
+    <state x="390" y="27" width="642" height="741" key="#main" timestamp="1584640780526">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="390" y="27" width="642" height="741" key="#main/67.27.1299.741@67.27.1299.741" timestamp="1584640780526" />
+    <state width="1253" height="103" key="GridCell.Tab.0.bottom" timestamp="1591020980382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="103" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1591020980382" />
+    <state width="1253" height="103" key="GridCell.Tab.0.center" timestamp="1591020980382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="103" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1591020980382" />
+    <state width="1253" height="103" key="GridCell.Tab.0.left" timestamp="1591020980382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="103" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1591020980382" />
+    <state width="1253" height="103" key="GridCell.Tab.0.right" timestamp="1591020980382">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="103" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1591020980382" />
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1586195122949">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586195122949" />
+    <state width="1253" height="219" key="GridCell.Tab.1.center" timestamp="1586195122949">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1586195122949" />
+    <state width="1253" height="219" key="GridCell.Tab.1.left" timestamp="1586195122948">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1586195122948" />
+    <state width="1253" height="219" key="GridCell.Tab.1.right" timestamp="1586195122949">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="219" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1586195122949" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1584459038826">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1584459038826" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590176443580">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1590176443580" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1590853660952">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1590853660952" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590175407310">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1590175407310" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/st_gcn$pku_detect.coverage" NAME="pku_detect Coverage Results" MODIFIED="1586195119281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pku" />
+    <SUITE FILE_PATH="coverage/st_gcn$run.coverage" NAME="run Coverage Results" MODIFIED="1590859333084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mmskeleton$run.coverage" NAME="run Coverage Results" MODIFIED="1584043773186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mmskeleton$skeleton.coverage" NAME="skeleton Coverage Results" MODIFIED="1571866207196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="H:/maitrise/dataset/Fall/TST Fall detection dataset v2/Data1/ADL/grasp/1/Body" />
+  </component>
+</project>

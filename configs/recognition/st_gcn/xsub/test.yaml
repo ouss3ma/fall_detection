@@ -1,0 +1,43 @@
+argparse_cfg:
+  gpus:
+    bind_to: processor_cfg.gpus
+    help: number of gpus
+  batch_size:
+    bind_to: processor_cfg.batch_size
+  checkpoint:
+    bind_to: processor_cfg.checkpoint
+    help: the checkpoint file to load from
+    #default: D:/Maitrise/code/mmskeleton/checkpoints/st_gcn.ntu-xsub-300b57d4.pth
+    #default: D:\Maitrise\code\mmskeleton\work_dir\recognition\st_gcn\xsub\epoch_5.pth
+    #default: D:/Maitrise/code/mmskeleton/checkpoints/epoch_10_tst2.pth
+    #default: D:\Maitrise\code\mmskeleton\checkpoints\TST+Fallfree_2couches\epoch_10.pth
+    #default: D:\Maitrise\code\mmskeleton\checkpoints\TST_2couchesls\epoch_5.pth
+    default: /home/oussema/code/st-gcn/checkpoints/TST+Fallfree_2couches/epoch_10.pth
+
+processor_cfg:
+  name: ".processor.translearning.test"
+  checkpoint:
+
+  # model setting
+  model_cfg:
+    name: ".models.backbones.ST_GCN"
+    in_channels: 3
+    num_class: 2
+    dropout: 0.5
+    edge_importance_weighting: True
+    graph_cfg:
+      layout: "ntu-rgb+d"
+      strategy: "spatial"
+
+  # dataset setting
+  dataset_cfg:
+    name: ".datasets.SkeletonFeeder"
+    #data_path: ./data/TST+Fallfree/xsub/val_data.npy
+    #label_path: ./data/TST+Fallfree/xsub/val_label.pkl
+    data_path: /home/oussema/code/PKU-MMD/PKU_Skeleton_Renew/data/st-gcn data/xsub/val_data.npy
+    label_path: /home/oussema/code/PKU-MMD/PKU_Skeleton_Renew/data/st-gcn data/xsub/val_label.pkl
+    # debug: true
+
+  # dataloader setting
+  batch_size: 1
+  gpus: 1
